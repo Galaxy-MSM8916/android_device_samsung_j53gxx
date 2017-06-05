@@ -10,7 +10,6 @@ etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
 
 ## Camera
-etc/T13QL_s5k3l2xx_module_info.xml
 etc/B05QL_s5k5e3yx_module_info.xml
 lib/hw/camera.msm8916.so:lib/hw/camera.vendor.msm8916.so
 lib/libaec_algo_front.so
