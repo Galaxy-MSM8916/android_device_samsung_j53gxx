@@ -74,6 +74,9 @@ vendor/lib/liboemcamera.so
 vendor/lib/libqomx_jpegenc.so
 
 # RIL
+bin/rild
+lib/libril.so
+lib/librilutils.so
 lib/libsec-ril.so
 lib/libsec-ril-dsds.so
 
