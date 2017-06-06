@@ -95,12 +95,12 @@ vendor/lib/libmmqjpeg_codec.so
 vendor/lib/liboemcamera.so
 vendor/lib/libqomx_jpegenc.so
 
-# RIL
-bin/rild
-lib/libril.so
-lib/librilutils.so
-lib/libsec-ril.so
-lib/libsec-ril-dsds.so
+# RIL - J500HXXU1APE5_J500HOXE1APE5_J500HXXU1APC2
+bin/rild|cd996293a8c7426b479c0b6cc68798b7
+lib/libril.so|f4fe97d2238ed7a1fb53a5fc878064d2
+lib/librilutils.so|315bded0ab3eeb5ea4f5b147670ef6e5
+lib/libsec-ril.so|992d733504abedf6ea405be978cfcffc
+lib/libsec-ril-dsds.so|8851cb7d58ba47e91df38ba936a4e60d
 
 # Sensors
 lib/hw/sensors.msm8916.so
