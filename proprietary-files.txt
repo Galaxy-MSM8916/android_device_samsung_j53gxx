@@ -70,7 +70,6 @@ vendor/lib/libmmcamera2_vpe_module.so
 vendor/lib/libmmcamera2_wnr_module.so
 vendor/lib/libmmcamera_dw_dw9806b_eeprom.so
 vendor/lib/libmmcamera_dw_dw9807_eeprom.so
-vendor/lib/libmmcamera_faceproc.so
 vendor/lib/libmmcamera_hdr_gb_lib.so
 vendor/lib/libmmcamera_hdr_lib.so
 vendor/lib/libmmcamera_image_stab.so
