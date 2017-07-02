@@ -107,7 +107,6 @@ vendor/lib/libqmi_csi.so
 vendor/lib/libqmi_encdec.so
 vendor/lib/libqmiservices.so
 vendor/lib/libqmi.so
-vendor/lib/lib-sec-disp.so
 
 # RIL
 bin/rild
