@@ -24,9 +24,6 @@ vendor/lib/libqmiservices.so
 vendor/lib/libqmi.so
 
 # RIL
-bin/rild
-lib/libril.so
-lib/librilutils.so
 lib/libsec-ril.so|6edac3bc613c1efcd9ca4a5aab518f36
 lib/libsec-ril-dsds.so|bb87eb6fa34b69bf921d72fc5b93c44c
 
