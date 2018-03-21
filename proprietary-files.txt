@@ -1,8 +1,8 @@
 # Samsung Package Version J500HXXU2BQC4_J500HOXE2BQC2_CAU (unless otherwise specified and/or tagged)
 
 # RIL
-lib/libsec-ril.so|6edac3bc613c1efcd9ca4a5aab518f36
-lib/libsec-ril-dsds.so|bb87eb6fa34b69bf921d72fc5b93c44c
+lib/libsec-ril.so|9186d9bf37eb377db28cb17b4572071070a898c2
+lib/libsec-ril-dsds.so|256a9a3c084b39464ebf0cd7cfb9712405c989a5
 
 # Sensors - J500HXXU1APE5_J500HOXE1APE5_J500HXXU1APC2
 lib/hw/sensors.msm8916.so|fb5fbe6b832c242e18ab0a5cb53ad91c
