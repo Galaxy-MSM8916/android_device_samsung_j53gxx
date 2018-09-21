@@ -11,3 +11,7 @@ LOCAL_PATH := device/samsung/j53gxx
 
 # Common overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
+
+# RIL
+PRODUCT_PACKAGES += \
+    rild_dsds.rc
